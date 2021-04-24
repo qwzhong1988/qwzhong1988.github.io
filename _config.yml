@@ -83,9 +83,9 @@ author:
   name             : "Qiwei Zhong"
   avatar           : "profile.png"
   bio              : "Staff Algorithm Engineer @ Alibaba Group"
-  location         : "Location"
+  location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=GCkc_EgAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qwzhong1988"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-8517-8072"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
