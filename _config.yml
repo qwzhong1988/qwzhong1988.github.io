@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiwei Zhong"
+title                    : "Welcome:)"
 title_separator          : "-"
 name                     : &name "Qiwei Zhong"
 description              : &description "personal description"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8517-8072"
+  orcid            : #"https://orcid.org/0000-0002-8517-8072"
   pinterest        :
   soundcloud       :
   stackoverflow    :
