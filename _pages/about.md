@@ -7,7 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-aaaa
-
-bbbb
+:)
 ---
