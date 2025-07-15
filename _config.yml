@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Qiwei Zhong (钟齐炜)"
   avatar           : "profile.png"
-  bio              : "Staff Algorithm Engineer @ Alibaba Group"
+  bio              : ":)"
   location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=GCkc_EgAAAAJ"
   email            : "qwzhong1988@163.com"
-  email            : "yunwei.zqw@alibaba-inc.com"
+  email            : "qwzhong1988@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
